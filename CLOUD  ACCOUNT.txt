@@ -1,0 +1,99 @@
+CLOUD ACCOUNT
+CLOUD ACCOUNT
+1.
+Go to the AWS website: Open your web browser and navigate to the AWS website at
+https://aws.amazon.com/.
+the AWS website: Open your web browser andnavigate
+https://aws.amazon.com/.
+2. Click on "Create an AWS Account": On the AWS homepage , "Create an AWS Account."
+3. Provide your email address: Enter email address and choose "I am a new user" sign in using that account.
+4. Enter personal information: Fill in your personal information
+5. Choose your account type: Select whether creating an account for personal use or for your organization.
+6. Enter your payment information: AWS requires a valid payment method to verify your identity and prevent
+abuse of their services.
+Click on "Create an AWS Account": On the AWS homepage , "Create an AWS Account."
+Provide your email address: Enter email address and choose "I am a new user"
+sign in using that account.
+Enter personal information: Fill in your personal information
+Choose your account type: Select whether creating an account for personal use or for your organization.
+Enter your payment information: AWS requires a valid payment method to verify your identity andprevent
+abuse oftheir services.
+8. Read and accept the AWS Customer Agreement: click on the checkbox to accept them.
+9. Complete the signup process: After accepting the terms, click on the "Create Account and Continue" button to
+complete the signup process.
+Identity verification: AWS mayrequire additional identity verification steps to ensure the security ofyour
+account. This might involve receiving a phone call or text message witha verification code.
+Read and accept the AWS Customer Agreement: click onthe checkbox to accept them.
+Complete the signup process: After accepting the terms,
+click on the "Create Account and Continue" button to
+complete the signup process.
+10. Verify your contact information: AWS may send you a verification email to confirm email address.
+11. Set up your support plan: Choose a support plan based on needs. AWS offers a range of support plans,
+including a free basic plan and paid support plans with varying levels of support and features.
+. Verify your contact information: AWS may send you a verification email
+confirm email address.
+. Set
+your support plan: Choose a support plan based on needs. AWS offers a range of support plans,
+including a free basic plan and paid support plans with varying levels ofsupport and features.
+12. Set up your account preferences: Once your account is set up, configure additional settings such as preferred
+language, billing preferences, and notifications.
+. Set
+your account preferences: Once your account is set up, configure additional settings such as preferred
+language, billing preferences, and notifications.
+13. Access your AWS Management Console: Once your account is fully set up, log in to the AWS Management
+Console using your email address and password to start using AWS services.
+. Access your AWS Management Console: Once your account is fully set up, log in
+Console using your email address and password
+aws
+Root user sign ine
+Welcome to a new
+world of work with
+Amazon Q
+Your generative Al-powered
+Petns tay ae citeatats cetera
+paeee tae ollteat eit te
+etree
+pened
+start using AWS services.
+the AWS Management
+7. Identity verification: AWS may require additional identity verification steps to ensure the security of your
+account. This might involve receiving a phone call or text message with a verification code.
+the AWS website at
+XG
+$36ini xX| Gohowms x | G KSITM-
+console/home?nc2=h_ct&region=Uus-east-1 &src=header-signin#
+TAlt+S]
+Console Home ino
+=
+Recently visited info
+i
+OE)
+| Reset reed
+todefa
+i: Applications (0) info
+Region: USEast
+(N.Virginia)
+Service Quotas
+us-east-1 (Current Region) ¥ || Q Fir
+Billing and Cost Management
+Security credentials
+a | Description
+No applications
+Get started by creating an application
+Create application
+Deco
+one
+x| IM Inbox(
+©chatar x
+Go to myApplications
+[eSett
+ra
+a
+CeCe
+a
+Re
+ia
+= Piya
+a
+NDwPwWnd
+
